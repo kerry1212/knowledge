@@ -2,8 +2,8 @@
 
 | 命令                                                         | 作用                         |
 | :----------------------------------------------------------- | :--------------------------- |
-| git config [--global] user.name <"user.name">                | 你的名字                     |
-| git config [--global] user.email <"user.email">              | 你的email                    |
+| git config [--global] user.name <"user.name">                | 配置用户名                   |
+| git config [--global] user.email <"user.email">              | 配置用户email                |
 |                                                              |                              |
 | git clone <url>                                              | 克隆文件                     |
 | git init                                                     | 初始化                       |
